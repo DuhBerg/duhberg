@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm 22 years old, I have a degree in Systems Analysis and Development and I have 3 years of experience with test automation. I currently work using Robot Framework for Web, Mobile and API automations. 
+I'm 22 years old, I have a degree in Systems Analysis and Development and I have 4 years of experience with test automation. I currently work using Robot Framework for Web, Mobile and API automations. 
 
 Recently, I have focused my studies on the Cypress framework, in order to explore new technologies and trends in the job market.
 
