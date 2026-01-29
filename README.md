@@ -5,11 +5,9 @@
 
 ### About Me
 
-I'm 22 years old, I have a degree in Systems Analysis and Development and I have 4 years of experience with test automation. I currently work using Robot Framework for Web, Mobile and API automations. 
+I'm 24 years old, I have a degree in Systems Analysis and Development and I have 5 years of experience with test automation. Currently, I work as a Senior Quality Analyst at Avanade for the client Bradesco, using Java with Rest Assured for API automation, and Selenium for Web. 
 
-Recently, I have focused my studies on the Cypress framework, in order to explore new technologies and trends in the job market.
-
-I have some certifications such as: <a href="https://learn.microsoft.com/pt-br/users/eduardoberg-4638/credentials/f3d22f9bf2b3ce95">AZ-900</a> and <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+24-CTFL-13381-BR&field_certificado_nome_value=">CTFL</a> 
+I have some certifications such as: <a href="https://learn.microsoft.com/pt-br/users/eduardoberg-4638/credentials/f3d22f9bf2b3ce95">AZ-900</a>, <a href="https://learn.microsoft.com/api/credentials/share/pt-br/EduardoBerg-4638/B4E22736257FAFE4?sharingId=D1721363D76ACC5">AI-900</a>  and <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+24-CTFL-13381-BR&field_certificado_nome_value=">CTFL</a> 
 
 
 
@@ -19,11 +17,13 @@ I have some certifications such as: <a href="https://learn.microsoft.com/pt-br/u
 
 ### Skills
 <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQH1GCJbqMykGw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691676585590?e=2147483647&v=beta&t=LRo43PwO_zTMSCjs_yMcKZTIMhARuwTEPkMnekAqcFc" height="30" alt="restassured logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo"  />
   <img width="12" />
